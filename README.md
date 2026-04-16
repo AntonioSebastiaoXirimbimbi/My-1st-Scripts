@@ -1,6 +1,6 @@
 # My-1st-Scripts
 Seje bem vindo ao meu repositório (divirtam-se)
-### Frontend
+### Dev Front-End 
 <!-- ou versão com ícones grandes -->
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50"/>
